@@ -1,7 +1,7 @@
 ---
 title: Rui Pan
 role: Ph.D. Student
-avatar_filename: panpan_ca.jpg
+avatar_filename: 微信图片_20220912192452.jpg
 bio: My research interests include A, B, and C
 interests:
   - Artificial Intelligence
